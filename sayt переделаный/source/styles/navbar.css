@@ -1,0 +1,10 @@
+html {
+	background-color: black
+}
+.navbar {
+	background:  linear-gradient(50deg, #A8FF00 0%, #D6D628 100%);
+}
+.info{
+	color: #A8FF00;
+	text-decoration: none;
+}
